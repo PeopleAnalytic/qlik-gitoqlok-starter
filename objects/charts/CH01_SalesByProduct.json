@@ -1,0 +1,38 @@
+{
+  "qInfo": {
+    "qType": "barchart",
+    "qId": "CH01_SalesByProduct"
+  },
+  "qMetaDef": {
+    "title": "Sales by Product"
+  },
+  "title": "Sales by Product",
+  "showTitles": true,
+  "qHyperCubeDef": {
+    "qDimensions": [
+      {
+        "qLibraryId": "Dim_Product",
+        "qNullSuppression": false
+      }
+    ],
+    "qMeasures": [
+      {
+        "qLibraryId": "Meas_Sales"
+      }
+    ],
+    "qInitialDataFetch": [
+      {
+        "qHeight": 50,
+        "qWidth": 10
+      }
+    ],
+    "qSuppressZero": false,
+    "qSuppressMissing": true,
+    "qInterColumnSortOrder": [
+      1,
+      0
+    ],
+    "qMode": "S"
+  },
+  "visualization": "barchart"
+}
