@@ -1,0 +1,13 @@
+{
+  "qInfo": {
+    "qType": "AppProps",
+    "qId": "AppProps"
+  },
+  "qMetaDef": {
+    "title": "Gitoqlok Starter App"
+  },
+  "sheetTitleBgColor": {
+    "color": "#f5f7fa"
+  },
+  "theme": "sense"
+}
