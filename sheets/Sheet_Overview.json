@@ -1,0 +1,32 @@
+{
+  "qInfo": {
+    "qType": "sheet",
+    "qId": "Sheet_Overview"
+  },
+  "qMetaDef": {
+    "title": "Overview"
+  },
+  "qData": {
+    "title": "Overview",
+    "description": ""
+  },
+  "qChildren": [
+    {
+      "qInfo": {
+        "qId": "CH01_SalesByProduct",
+        "qType": "barchart"
+      },
+      "qExtendsId": "",
+      "qStateName": ""
+    }
+  ],
+  "cells": [
+    {
+      "name": "CH01_SalesByProduct",
+      "col": 0,
+      "row": 0,
+      "colspan": 8,
+      "rowspan": 10
+    }
+  ]
+}
