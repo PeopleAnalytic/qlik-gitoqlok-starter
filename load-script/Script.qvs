@@ -1,0 +1,11 @@
+// ========== Script.qvs (exempeldata) ==========
+// Skapar en liten demotabell inline för att kunna testa objekt direkt.
+
+DemoData:
+LOAD * INLINE [
+Product, Sales
+Alpha, 120
+Beta,  90
+Gamma, 150
+Delta,  60
+];
