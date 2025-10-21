@@ -1,0 +1,21 @@
+{
+  "qInfo": {
+    "qType": "dimension",
+    "qId": "Dim_Product"
+  },
+  "qMetaDef": {
+    "title": "Product",
+    "description": "Masterdimension: Produkt"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Product"
+    ],
+    "qFieldLabels": [
+      "Product"
+    ],
+    "title": "Product"
+  },
+  "qMeasure": null
+}

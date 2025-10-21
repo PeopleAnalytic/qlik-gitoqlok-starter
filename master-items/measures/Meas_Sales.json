@@ -1,0 +1,19 @@
+{
+  "qInfo": {
+    "qType": "measure",
+    "qId": "Meas_Sales"
+  },
+  "qMetaDef": {
+    "title": "Sales",
+    "description": "Mastermått: Sum(Sales)"
+  },
+  "qMeasure": {
+    "qDef": "Sum(Sales)",
+    "qLabel": "Sales",
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 2,
+      "qUseThou": 1
+    }
+  }
+}
